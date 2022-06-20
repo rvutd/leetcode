@@ -10,4 +10,4 @@ def linearSearch(arr, element):
 
 getElement = linearSearch([10, 20, 30, 49, 39, 89], 49)
 
-print(getElement)
+print(getElement["position"])
